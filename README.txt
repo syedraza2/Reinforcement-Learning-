@@ -4,6 +4,8 @@ Copyright: 2019, Syed Raza, <raza220489@gmail.com>, <https://sites.google.com/vi
 Textbook: Reinforcement Learning, Second Edition
 By Richard S. Sutton and Andrew G. Barto
 
+In this repository, you will find implementations of various Reinforcement Learning algorithms and their applications to optimization problems. This repo grew out of a graduate course in Reinforcement Learning at University of Virginia. A list of algorithm implementations and their applications is given below:
+
 HW1:
 MRP (Markov Reward Process),
 MDP (Markov Decision Process).
